@@ -1,0 +1,12 @@
+.idea/
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+
+data/
+*.parquet
+*.xlsx
+
+.DS_Store
